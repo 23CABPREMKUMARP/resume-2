@@ -19,3 +19,4 @@ Watch the free **11-hour** tutorial on YouTube: https://www.youtube.com/watch?v=
 
 ![thumbnail](https://github.com/user-attachments/assets/f3eaef96-9674-4201-afeb-4deb3500ab6d)
 # resume-2
+# resume-main
